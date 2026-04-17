@@ -53,7 +53,7 @@ karina-gerenciador-tarefas/<br>
 4.  Acesse no navegador:
   http://localhost:3000
 
-5.Desenvolvido por Karina Louro 
+5. Desenvolvido por Karina Louro 
 
    
 
