@@ -1,5 +1,5 @@
 import React, { useState, useContext } from "react";
-import { TarefasProvider, TarefasContext } from "./TarefasContext";
+import { TarefasContext } from "./TarefasContext";
 import ListaDeTarefas from "./ListaDeTarefas";
 import "./App.css";
 
@@ -37,11 +37,7 @@ function AppContent() {
 }
 
 function App() {
-  return (
-    <TarefasProvider>
-      <AppContent />
-    </TarefasProvider>
-  );
+  return <AppContent />;
 }
 
 export default App;
