@@ -18,17 +18,17 @@ Ele permite adicionar, marcar como concluídas e filtrar tarefas, com uma interf
 ---
 
 ##  Estrutura do Projeto
-karina-gerenciador-tarefas/
-├── src/
-│   ├── App.js
-│   ├── App.css
-│   ├── ListaDeTarefas.js
-│   ├── Tarefa.js
-│   ├── TarefasContext.js
-│   └── index.js
-├── assets/
-│   └── (imagens e ícones)
-└── package.json
+karina-gerenciador-tarefas/<br>
+├── src/<br>
+│   ├── App.js<br>
+│   ├── App.css<br>
+│   ├── ListaDeTarefas.js<br>
+│   ├── Tarefa.js<br>
+│   ├── TarefasContext.js<br>
+│   └── index.js<br>
+├── assets/<br>
+│   └── (imagens e ícones)<br>
+└── package.json<br>
 
 ---
 
