@@ -1,0 +1,18 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar arquivos de build
+build/
+dist/
+
+# Ignorar logs
+*.log
+
+# Ignorar configurações locais
+.env
+.vscode/
+.DS_Store
+
+# Permitir apenas src e assets
+!src/
+!assets/
